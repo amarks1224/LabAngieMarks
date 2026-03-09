@@ -141,7 +141,7 @@ Análisis
 
 
 
-    
+
 
 Oferta Laboral 5 – Front-End Developer
 Ubicación: San José
@@ -243,3 +243,13 @@ Justificación del Enfoque del Sitio Web
     Enfoque moderno y minimalista.
     Adaptabilidad a dispositivos móviles (responsive design).
     El objetivo es simular una postulación real a una empresa tecnológica, alineando el diseño visual y el contenido con lo que el mercado actualmente solicita.
+
+
+Enlaces:
+
+Figma
+https://result-break-80479907.figma.site
+
+Repositorio:
+https://github.com/amarks1224/LabAngieMarks.git
+
